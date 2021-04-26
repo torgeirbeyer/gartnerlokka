@@ -1,4 +1,3 @@
-import logo from './assets/logo.png';
 import Dot from './dot.js'
 import './App.css'
 
