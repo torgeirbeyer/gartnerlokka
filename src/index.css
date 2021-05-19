@@ -1,3 +1,25 @@
+@font-face {
+  font-family: 'oslo-sans-regular';
+  src: url('../src/fonts/OsloSans-WOFF/OsloSans-Regular.woff') format('woff');
+  font-weight: 'normal';
+  font-style: 'normal';
+}
+@font-face {
+  font-family: 'oslo-sans-bold';
+  src: url('../src/fonts/OsloSans-WOFF/OsloSans-Bold.woff') format('woff');
+  font-weight: 'normal';
+  font-style: 'normal';
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  p {
+    @apply font-regular;
+  }
+  textarea {
+    @apply font-regular;
+  }
+}
