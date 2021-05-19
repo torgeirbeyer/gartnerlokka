@@ -22,4 +22,7 @@
   textarea {
     @apply font-regular;
   }
+  h1 {
+    @apply text-lg;
+  }
 }

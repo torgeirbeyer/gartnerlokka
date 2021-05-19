@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Form() {
   return (
-    <form className="my-4" name="tilbakemelding" method="post" action="/">
+    <form className="my-4" name="tilbakemelding" method="post" action="/takk">
       <input type="hidden" name="form-name" value="tilbakemelding" />
       <div className="">
         <label htmlFor="message">Tilbakemelding</label> <br />
