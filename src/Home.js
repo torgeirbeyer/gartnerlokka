@@ -7,28 +7,28 @@ const linkList = [
   title: "Toppen",
   href: 'https://kuula.co/share/7Btmp',
   color: "bg-choral",
-  position: "top-1/2 left-2/3",
+  position: "top-1/3 left-2/3",
   text: "Toppen av Gartnerløkka er en rolig, grønn møteplass med god utsikt og dempet belysning."
 },
 {
   title: "Skogen",
   href: 'https://kuula.co/share/7Btmf',
   color: "bg-yellow",
-  position: "top-1/2 left-3/5",
+  position: "top-1/3 left-3/5",
   text: "I nytt forslag spiller skogen en større rolle i parken. Ved hjelp av enkle installasjoner vil man kunne sette seg ned ved, eller leke i trærne."
 },
 {
   title: "Snarveien",
   href: 'https://kuula.co/share/7BtmG',
   color: "bg-blue",
-  position: "top-1/5 left-1/4",
+  position: "top-1/5 left-1/3",
   text: "En ny snarvei åpner opp områder som i dag er mørke. Snarveien vil lyssettes på en spennende, kunstnerisk måte og åpne nye deler av parken."
 },
 {
   title: "Løkka",
   href: 'https://kuula.co/share/7Btm0',
   color: "bg-green",
-  position: "bottom-1/3 left-1/2",
+  position: "bottom-1/3 left-1/3",
   text: "Et flatere plenområde med et naturlig sitteamfi kan brukes til lokale aktiviteter som loppemarked, trening, utekino eller forestilling."
 },
 ]
