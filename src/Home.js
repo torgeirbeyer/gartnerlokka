@@ -5,7 +5,7 @@ import map from './assets/map.jpg';
 const linkList = [
 {
   title: "Toppen",
-  href: 'https://kuula.co/share/7Btmp',
+  href: 'https://kuula.co/share/7tW2Y',
   color: "bg-choral",
   position: "top-1/3 left-2/3",
   text: "Toppen av Gartnerløkka er en rolig, grønn møteplass med god utsikt og dempet belysning."
@@ -26,7 +26,7 @@ const linkList = [
 },
 {
   title: "Løkka",
-  href: 'https://kuula.co/share/7Btm0',
+  href: 'https://kuula.co/share/7tWjH',
   color: "bg-green",
   position: "bottom-1/3 left-1/3",
   text: "Et flatere plenområde med et naturlig sitteamfi kan brukes til lokale aktiviteter som loppemarked, trening, utekino eller forestilling."
